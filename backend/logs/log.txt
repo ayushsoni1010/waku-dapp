@@ -1,0 +1,33 @@
+
+
+New Log:
+	--> Date   = 10/12/2023, 4:06:02 am
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /
+	--> Body   = undefined
+	
+
+New Log:
+	--> Date   = 10/12/2023, 4:06:21 am
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api
+	--> Body   = undefined
+	
+
+New Log:
+	--> Date   = 10/12/2023, 4:06:26 am
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/v1
+	--> Body   = undefined
+	
+
+New Log:
+	--> Date   = 10/12/2023, 4:06:45 am
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/v1
+	--> Body   = undefined
+	
